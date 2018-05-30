@@ -16,7 +16,4 @@ def move(board, index, character = "X")
     board[index] = character
   end
   update_array_at_with(board, 0, "X")
-
-  update_array_at_with(board, 4, "O")
-
 end
