@@ -15,4 +15,3 @@ def move(board, index, character = "X")
 end
 board[0] = "X"
 board[4] = "O"
-return board
