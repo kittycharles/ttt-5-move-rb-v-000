@@ -17,4 +17,3 @@ move(board, 0, "X")
 move(board, 4, "O")
 
 end
-
