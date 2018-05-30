@@ -13,3 +13,6 @@ end
 
 def move(array, index, character = "X")
 end
+
+move(board, 0, "X")
+
