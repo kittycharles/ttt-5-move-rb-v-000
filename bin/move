@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
-
+puts Welcome to TicTacToe!
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts Where would you like to go?
+user_input = gets.strip
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
