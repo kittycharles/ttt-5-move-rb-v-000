@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 puts Welcome to TicTacToe!
-  board = " ", " ", " ", " ", " ", " ", " ", " ", " "
 puts Where would you like to go?
 user_input = gets.strip
 require_relative '../lib/move.rb'
