@@ -3,8 +3,6 @@ require_relative '../lib/move.rb'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-puts Welcome to TicTacToe!
-puts Where would you like to go?
-user_input = gets.strip
+
 
 # Code your CLI Here
