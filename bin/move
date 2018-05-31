@@ -5,6 +5,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
-gets.strip 
+gets.strip
+gets = user_input
 
 # Code your CLI Here
