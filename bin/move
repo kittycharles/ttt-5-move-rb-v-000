@@ -3,6 +3,6 @@ require_relative '../lib/move.rb'
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-puts "Welcome to TicTacToe!"
+print "Welcome to TicTacToe!"
 
 # Code your CLI Here
